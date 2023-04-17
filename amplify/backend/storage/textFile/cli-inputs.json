@@ -1,0 +1,14 @@
+{
+  "resourceName": "textFile",
+  "policyUUID": "cf72e36b",
+  "bucketName": "fileupload4ff7c65cf0ab4ddf8b51fee129b59a32",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
